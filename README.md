@@ -8,7 +8,7 @@ The trained models are saved in *.pkl, *.model, *.h5 files. *.py files are auxil
 
 
 ## Dataset
-The dataset archive is available at data folder data.
+The dataset archive can be downloaded at http://ai.stanford.edu/~amaas/data/sentiment/.
 
 ## Environment
 Language: Python 2
