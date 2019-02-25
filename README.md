@@ -1,4 +1,3 @@
-# practice_task
 # Sentiment analysis on Large Movie Review Dataset dataset
 
 ## Project description 
