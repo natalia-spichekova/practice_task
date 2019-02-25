@@ -1,4 +1,4 @@
-# Sentiment analysis on Large Movie Review Dataset dataset
+# Sentiment analysis on Large Movie Review Dataset 
 
 ## Project description 
 The goal of the project is to create and analyse models for sentiment analysis created for Large Movie Review Dataset. 
