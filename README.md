@@ -10,26 +10,34 @@ The trained models can be accessed from Google Drive by the following links:
 
 *Tfidf vectorizer*
 
+https://drive.google.com/open?id=1Lh6Y9_4MmYzKZZFRoLuN--i2WR1H-CpG
 
 
 *Logistic Regression classifier based on tf-idf features*
 
+https://drive.google.com/open?id=1iUZ9grOe-BhKBc2hS_ZcRybjI-HuI70i
 
 *Doc2Vec model*
 
+https://drive.google.com/open?id=1euH-T-wQZYHEtopMI2OmpDFRg2bxP0PD
 
 *Logistic Regression classifier based on doc2vec features*
+
+https://drive.google.com/open?id=1pY_rMIvi44HJWhgy64mAAoay3eLRSY5K
 
 
 *Logistic Regression classifier based on polarity features*
 
+https://drive.google.com/open?id=1JGARM8x9mVUcMbtTWtUpjaanNm4FW7k5
 
-*Neural network dense model*
+*Dense neural network model*
 
+https://drive.google.com/open?id=1KCSseqpbSlBRkH1PZAHfYc8fl8G-85rf
 
 
 *CNN model*
 
+https://drive.google.com/open?id=19lkElKIViup7RBo3sWJBYjUBvAW32l2r
 
 
 
