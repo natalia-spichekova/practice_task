@@ -8,7 +8,9 @@ Decsription of models and their evaluation is available at *Sent_analysis_report
 The trained models files have too large size to be uploaded to the github repository. 
 The trained models can be accessed from Google Drive by the following links:
 
-[*Tfidf vectorizer*] (https://drive.google.com/open?id=1v_uBHZp7obnhMIEoiQ1ily1uQZBcwX6F)
+*Tfidf vectorizer*
+
+https://drive.google.com/open?id=1v_uBHZp7obnhMIEoiQ1ily1uQZBcwX6F
 
 *Logistic Regression classifier based on tf-idf features*
 
