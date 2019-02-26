@@ -15,12 +15,15 @@ https://drive.google.com/open?id=1v_uBHZp7obnhMIEoiQ1ily1uQZBcwX6F
 *Logistic Regression classifier based on tf-idf features*
 
 *Doc2Vec model*
+
 https://drive.google.com/open?id=15nmeytJxoDUCL3ayf3niqbEIO8D-Yubx
 
 *Neural network dense model*
+
 https://drive.google.com/open?id=1mRDDc9dnMGZOkOLB-YDaB0bImiU6DnNe
 
 *CNN model*
+
 https://drive.google.com/open?id=17sj4N1bJyNQD_E5VDO-8F9tXiRdky3EQ
 
 
