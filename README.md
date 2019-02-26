@@ -1,7 +1,7 @@
 # Sentiment analysis on Large Movie Review Dataset 
 
 ## Project description 
-The goal of the project is to create and analyse models for sentiment analysis created for Large Movie Review Dataset. 
+The goal of the project is to create and analyze models for sentiment analysis created for Large Movie Review Dataset. 
 
 Decsription of models and their evaluation is available at *Sent_analysis_report.ipynb* file. 
 
@@ -10,21 +10,27 @@ The trained models can be accessed from Google Drive by the following links:
 
 *Tfidf vectorizer*
 
-https://drive.google.com/open?id=1v_uBHZp7obnhMIEoiQ1ily1uQZBcwX6F
+
 
 *Logistic Regression classifier based on tf-idf features*
 
+
 *Doc2Vec model*
 
-https://drive.google.com/open?id=15nmeytJxoDUCL3ayf3niqbEIO8D-Yubx
+
+*Logistic Regression classifier based on doc2vec features*
+
+
+*Logistic Regression classifier based on polarity features*
+
 
 *Neural network dense model*
 
-https://drive.google.com/open?id=1mRDDc9dnMGZOkOLB-YDaB0bImiU6DnNe
+
 
 *CNN model*
 
-https://drive.google.com/open?id=17sj4N1bJyNQD_E5VDO-8F9tXiRdky3EQ
+
 
 
 ## Dataset
